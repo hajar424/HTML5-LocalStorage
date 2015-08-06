@@ -26,3 +26,16 @@ body{
   box-shadow: 5px 5px 1px  1px rgba(255,0,0,0.3);
 //BRB
 }
+#cookie_img{
+  background-image: url("../img/cookie.png");
+
+  height: 250px;
+  background-repeat: no-repeat;
+   background-size: contain;
+
+   margin-left: auto ;
+ margin-right: auto ;
+ margin: 0 auto;
+ width: 250px;
+
+}
