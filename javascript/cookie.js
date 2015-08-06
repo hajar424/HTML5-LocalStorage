@@ -5,6 +5,8 @@ var stage2 =  20;
 var stage3 =  30;
 
 function clickt(){
+  document.getElementById("cookie_img").style.height = "250px";
+
   cookies++;
   document.getElementById("counter").innerHTML = "Cookies: "+cookies;
   //Rainbow cookies
@@ -22,5 +24,6 @@ function clickt(){
             document.body.style.backgroundColor = "#18C518";
             break;
   }
+
 
 }
