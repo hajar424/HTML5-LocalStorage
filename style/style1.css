@@ -1,0 +1,28 @@
+body{
+  background-color: #FF6699;
+  font-family: sans-serif;
+  color: #282828;
+}
+#counter{
+    color:#282828;
+    box-shadow: 5px 5px 1px  1px rgba(255,0,0,0.3);
+    border: 2px solid #fff;
+    border-radius: 20px;
+    font-size: 25px;
+    padding: 10px;
+    margin: 5px;
+    background: pink;
+    width: 70%;
+      opacity: 0.8;
+}
+#ac_box{
+  opacity: 0.8;
+  background: pink;
+  margin-top: 10px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  padding: 5px;
+  width: 65%;
+  box-shadow: 5px 5px 1px  1px rgba(255,0,0,0.3);
+//BRB
+}
