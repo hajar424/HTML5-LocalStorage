@@ -12,7 +12,7 @@ function clickt(){
 
 
     cookies++;
-  if(typeof(Storage) !== "undefined") {
+  if(typeof(Storage) !== "0") {
       if (localStorage.clickcount) {
           localStorage.clickcount = Number(localStorage.clickcount)+1;
       } else {
