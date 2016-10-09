@@ -1,2 +1,2 @@
 # LocalStorage
-A simple cookie clicker witch uses localstorage.
+A simple cookie clicker whitch uses localstorage.
