@@ -1,2 +1,3 @@
 # LocalStorage
-A simple cookie clicker which uses localstorage.:cookie:
+#:cookie::point_left:
+A simple cookie clicker which uses localstorage.
