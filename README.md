@@ -1,2 +1,2 @@
 # LocalStorage
-A simple cookie clicker whitch uses localstorage.
+A simple cookie clicker which uses localstorage.:cookie:
